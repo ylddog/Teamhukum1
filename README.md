@@ -29,6 +29,8 @@ For Software:
 - HTML
 - CSS
 - JAVA SCRIPT
+- Used Ionic For Icon Packs In Login Site
+- Used Google Fonts For The Font
 
 For Hardware:
 None
