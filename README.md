@@ -1,33 +1,33 @@
 <img width="1280" alt="readme-banner" src="https://github.com/user-attachments/assets/35332e92-44cb-425b-9dff-27bcf1023c6c">
 
 # [Project Name] 🎯
+Random Pickup Line Generator With Login Page
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Hukum
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Name] - Muhammed Hasin - SCMS School Of Engineering And Technology
+- Member 2: - James Joseph - SCMS School Of Engineering And Technology
+- Member 3: Aaron Antony - SCMS School Of Engineering And Technology
 
 ### Project Description
-[2-3 lines about what your project does]
+Random pickup line generator
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
-
+Problem For Finding Love
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+Rizz Pickup Lines From UI
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- Java
+- HTML
+- CSS
+- JAVA SCRIPT
 
 For Hardware:
 - [List main components]
@@ -37,7 +37,7 @@ For Hardware:
 ### Implementation
 For Software:
 # Installation
-[commands]
+Through Website
 
 # Run
 [commands]
