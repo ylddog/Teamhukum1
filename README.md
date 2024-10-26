@@ -14,11 +14,10 @@ Random Pickup Line Generator With Login Page
 - Member 3: Aaron Antony - SCMS School Of Engineering And Technology
 
 ### Project Description
-Random pickup line generator Which comes with a login page.Users can either login or register to rizzguru by clicking on the login button on the top right corner and enter a gmail and password which direcly goes to the rizz generator
+This Random Pickup line generator is for love driven people but can't find love.This Is to help them get some rizz pickup lines for being in love.
 
 ### The Problem (that doesn't exist)
-No Problem Was faced during the making of the project.but some code was misplaced , it took time to resolve the issues
-This site is dedicated to people that finds it hard to be in love
+This site is dedicated to people that finds it hard to be in love.Rizz Guru Is the interface and main of our pickupline generator
 ### The Solution (that nobody asked for)
 Provides cool awesome pickup lines that makes the party fall in love with you.
 
@@ -42,7 +41,7 @@ No such installation process is required.just entering the website with the help
 
 # Run
 Using Live server in vs code
-
+Open Vs Code,Right click on pickup.html.Click on open in live server
 
 ### Project Demo
 # Video
